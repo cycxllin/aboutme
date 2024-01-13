@@ -113,6 +113,11 @@ nav li a:link {
   color: #e8e8e3;
   } 
 
+nav li a:visited{
+    color: #e8e8e3;
+  }
+  
+
 @media (max-width: 480px) {
   .row {
     justify-content: center;
